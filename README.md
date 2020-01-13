@@ -61,7 +61,7 @@
 
 1. App Name / Team Slide
 2. Elevator Pitch
-3. Your #1 Feature (Customer facing — what can I do with your app?)
+3. Demo
 4. Future Goals
 
 ## Slide Requirements
@@ -90,8 +90,7 @@ We have ~12 teams presenting today — please practice your presentation with a 
 Plan on having one person present the slides and live demo. Please practice your presentation in front of a mirror or with your team 2-5 times. Have the app running and visible (Simulator or QuickTime) so you can quickly transition between slides and live demo.
 
 * App Name / Team Slide (30 seconds)
-* Elevator Pitch Slide (30 seconds)
-* Your #1 Feature (30 seconds)
+* Elevator Pitch Slide (60 seconds)
 * Live Demo (2 minutes)
 * Future Goals (30 seconds)
 * Questions (3 minutes)
