@@ -4,7 +4,7 @@
 
 1. Fork and clone the repository
 2. Create a branch for Unit1 or Unit4
-3. Add your Github Code repository and make a commit
+3. Add your Team Name / Team Members and make a commit
 4. Create a pull request (PR) and **tag your TL and Instructor**
 5. **Add your presentation content**
     1. Slide deck (4 required slides)
@@ -19,6 +19,8 @@
 
 ## Links
 
+* App Name: `<insert team name / app name>`
+* Team: `<insert team members here>`
 * Github Code: `<insert Github repository link here>`
 * Github Proposal: `<insert Proposal Pull Request here>`
 * Trello/Github Project Kanban: `<insert trello board here>`
