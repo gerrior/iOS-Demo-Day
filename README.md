@@ -3,16 +3,19 @@
 ## Requirements
 
 1. Fork and clone the repository
-2. **Add your presentation content**
+2. Create a branch for Unit1 or Unit4
+3. Add your Github Code repository and make a commit
+4. Create a pull request (PR) and **tag your TL and Instructor**
+5. **Add your presentation content**
     1. Slide deck (4 required slides)
     2. Links
     3. Answer all questions 
     4. YouTube demo video (1-2 min max)
-3. Polish your Github Code repository
+6. Polish your Github Code repository
     1. Add screenshots and an overview to your GitHub Code Repository
     2. You should make that repository the "Public Portfolio" for your project
     3. Look at [John Sundell's Splash project](https://github.com/JohnSundell/Splash) for inspiration (code, images, GIFs)
-4. Create a pull request (PR) and **tag your TL and Instructor**
+
 
 ## Links
 
