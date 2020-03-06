@@ -19,11 +19,11 @@
 
 ## Links
 
-* App Name: `<insert team name / app name>`
-* Team: `<insert team members here>`
-* Github Code: `<insert Github repository link here>`
-* Github Proposal: `<insert Proposal Pull Request here>`
-* Trello/Github Project Kanban: `<insert trello board here>`
+* App Name: **BMW's Countdown Timer**
+* Team: **BMW**
+* Github Code: **[gerrior/ios-build-sprint-project-proposal](https://github.com/gerrior/ios-build-sprint-project-proposal)**
+* Github Proposal: **[gerrior/ios-build-sprint-project-proposal](https://github.com/gerrior/ios-build-sprint-project-proposal)**
+* Trello/Github Project Kanban: [Trello](https://trello.com/b/d4Uhr4zA/countdown-timer)
 * Test Flight Signup (Recommended): `<insert beta signup link here>`
 * YouTube demo video (Recommended): `<insert video url here>`
 
