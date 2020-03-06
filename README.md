@@ -39,11 +39,11 @@
 
 2. What was your #1 obstacle or bug that you fixed? How did you fix it?
 
-    **Mark: I had a segue/navigation controller/storyboard issue that proved to be quite vexing. It involved a lot of mythotical searching of all the places in the code used to get his working and find the proper places to put identifiers. **
+    **Mark: I had a segue/navigation controller/storyboard issue that proved to be quite vexing. It involved a lot of mythotical searching of all the places in the code used to get his working and find the proper places to put identifiers.**
   
 3. Share a chunk of code (or file) you're proud of and explain why.
 
-    **Mark: I liked my idea of throwing the warning triangle in the upper-right of the main view if you declined notifications. **
+    **Mark: I liked my idea of throwing the warning triangle in the upper-right of the main view if you declined notifications.**
   
 4. What is your elevator pitch? (30 second description your Grandma or a 5-year old would understand)
 
